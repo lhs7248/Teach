@@ -1,7 +1,5 @@
-# Teach
-iOS about technology
+### 简介
 	
-	such as : more Tagets
-			 jekins ＋CI
-			 Cocopods
-			 FastLane
+该仓库主要是用来保存在做移动端CI端时候一些思路及脚本
+
+
